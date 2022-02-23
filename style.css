@@ -3719,6 +3719,7 @@ html[xmlns] .slider-wrap {
   only screen and (min-resolution: 192dpi),
   only screen and (min-resolution: 2dppx) {
   #logo a.standard-logo {
+    display: none;
   }
 
   #logo a.retina-logo {
